@@ -1,0 +1,7 @@
+,starttime,duration,meanPupilDiameter,eye,eventType,eventIdxLeft,eventIdxRight,meanX,meanY,startSaccadeX,startSaccadeY,endSaccadeX,endSaccadeY,microsaccadeCount,microsaccadeAmplitude,microsaccadePeakVelocity
+0,3918512,113,2.8385333333333334,left,fixation,1.0,,997.881862068966,79.6995862068966,,,,,0.0,,
+1,3918512,113,2.8385333333333334,right,fixation,,1.0,979.850896551724,50.422724137931006,,,,,0.0,,
+2,3918629,48,,left,saccade,1.0,,,,991.383,71.40899999999998,1507.376,869.3660000000001,,,
+3,3918629,52,,right,saccade,,1.0,,,983.1189999999999,49.596000000000004,1441.372,827.852,,,
+4,3918681,8,2.7565,left,fixation,2.0,,1507.376,869.3660000000001,,,,,0.0,,
+5,3918685,4,2.756125,right,fixation,,2.0,1441.372,827.852,,,,,0.0,,
